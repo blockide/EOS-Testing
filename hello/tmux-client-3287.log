@@ -1,0 +1,45 @@
+1540666156.441518 client started (3287): version 2.8, socket /private/tmp/tmux-501/default, protocol 8
+1540666156.441581 on Darwin 18.0.0 Darwin Kernel Version 18.0.0: Wed Aug 22 20:13:40 PDT 2018; root:xnu-4903.201.2~1/RELEASE_X86_64; libevent 2.1.8-stable (select)
+1540666156.441638 socket is /private/tmp/tmux-501/default
+1540666156.441676 trying connect
+1540666156.441705 connect failed: Connection refused
+1540666156.441890 lock file is /private/tmp/tmux-501/default.lock
+1540666156.441972 flock succeeded
+1540666156.441982 got lock (6)
+1540666156.441993 trying connect
+1540666156.442006 connect failed: Connection refused
+1540666156.442487 add peer 0x7fb26b001000: 7 (0x0)
+1540666156.443998 sending message 100 to peer 0x7fb26b001000 (4 bytes)
+1540666156.444023 sending message 101 to peer 0x7fb26b001000 (15 bytes)
+1540666156.444038 sending message 102 to peer 0x7fb26b001000 (13 bytes)
+1540666156.444049 sending message 108 to peer 0x7fb26b001000 (29 bytes)
+1540666156.444069 sending message 104 to peer 0x7fb26b001000 (0 bytes)
+1540666156.444082 sending message 107 to peer 0x7fb26b001000 (4 bytes)
+1540666156.444093 sending message 105 to peer 0x7fb26b001000 (28 bytes)
+1540666156.444103 sending message 105 to peer 0x7fb26b001000 (16 bytes)
+1540666156.444113 sending message 105 to peer 0x7fb26b001000 (20 bytes)
+1540666156.444143 sending message 105 to peer 0x7fb26b001000 (57 bytes)
+1540666156.444156 sending message 105 to peer 0x7fb26b001000 (76 bytes)
+1540666156.444166 sending message 105 to peer 0x7fb26b001000 (25 bytes)
+1540666156.444177 sending message 105 to peer 0x7fb26b001000 (53 bytes)
+1540666156.444188 sending message 105 to peer 0x7fb26b001000 (11 bytes)
+1540666156.444199 sending message 105 to peer 0x7fb26b001000 (66 bytes)
+1540666156.444209 sending message 105 to peer 0x7fb26b001000 (50 bytes)
+1540666156.444221 sending message 105 to peer 0x7fb26b001000 (33 bytes)
+1540666156.444232 sending message 105 to peer 0x7fb26b001000 (17 bytes)
+1540666156.444244 sending message 105 to peer 0x7fb26b001000 (14 bytes)
+1540666156.444263 sending message 105 to peer 0x7fb26b001000 (19 bytes)
+1540666156.444274 sending message 105 to peer 0x7fb26b001000 (8 bytes)
+1540666156.444284 sending message 105 to peer 0x7fb26b001000 (18 bytes)
+1540666156.444295 sending message 105 to peer 0x7fb26b001000 (14 bytes)
+1540666156.444304 sending message 105 to peer 0x7fb26b001000 (22 bytes)
+1540666156.444317 sending message 105 to peer 0x7fb26b001000 (30 bytes)
+1540666156.444329 sending message 106 to peer 0x7fb26b001000 (0 bytes)
+1540666156.444343 sending message 200 to peer 0x7fb26b001000 (4 bytes)
+1540666156.444353 client loop enter
+1540666156.472033 peer 0x7fb26b001000 message 207
+1540666156.472062 sending message 208 to peer 0x7fb26b001000 (0 bytes)
+1540666165.402077 peer 0x7fb26b001000 message 203
+1540666165.402115 sending message 205 to peer 0x7fb26b001000 (0 bytes)
+1540666165.402418 peer 0x7fb26b001000 message 204
+1540666165.402450 client loop exit
